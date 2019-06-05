@@ -1,0 +1,17 @@
+.disclaimer, .links, .contact {
+  font-family: verdana;
+  font-size: 16px;
+  border: 1px dotted black;
+  padding: 20px;
+  margin: 20px; }
+
+.disclaimer {
+  background-color: #ffa0a0; }
+
+.links {
+  background-color: #adffed; }
+
+.contact {
+  background-color: #b6ffad; }
+
+/*# sourceMappingURL=inheritance.css.map */
